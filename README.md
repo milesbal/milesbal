@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milesbal
 - 👀 I’m interested in new technologies, and web
-- 🌱 I’m currently learning javaScript, 
+- 🌱 I’m currently learning javaScript, and Python
 - 💞️ I’m looking to collaborate on SaaS product
 - 📫 How to reach me slim.selhab@gmail.com
 
